@@ -16,8 +16,6 @@
 
 ### Day 29 特徵評估
 
-藉由sklearn的GradientBoostingClassifier的feature_importances_)來分配特徵重要性
+藉由sklearn的GradientBoostingClassifier的feature_importances_來分配特徵重要性
 
-### Day 30
-
-
+### Day 30 ROC Curve
