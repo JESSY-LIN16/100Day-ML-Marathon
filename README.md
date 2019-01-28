@@ -19,3 +19,11 @@
 藉由sklearn的GradientBoostingClassifier的feature_importances_來分配特徵重要性
 
 ### Day 30 ROC Curve
+
+### Day 31 機器學習概論(影片)
+
+### Day 32 機器學習文章
+
+找一篇有興趣的paper/ article
+
+### Day 33 機器學習流程(影片)
