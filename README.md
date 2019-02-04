@@ -31,3 +31,9 @@
 ### Day 34 切割訓練&測試集
 
 學習切割分佈不平均的資料
+
+### Day 35 Multi Label Case
+
+### Day 36 評估指標
+
+評估Regression與Classification的準確度
