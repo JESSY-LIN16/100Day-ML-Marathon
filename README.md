@@ -37,3 +37,7 @@
 ### Day 36 評估指標
 
 評估Regression與Classification的準確度
+
+### Day 37 Regression介紹文
+
+### Day 38 Linear Regression實作
