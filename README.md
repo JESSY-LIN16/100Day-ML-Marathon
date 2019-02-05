@@ -41,3 +41,9 @@
 ### Day 37 Regression介紹文
 
 ### Day 38 Linear Regression實作
+
+### Day 39 Lasso & Ridge
+
+Linear Regression加上L1/ L2 Regression後
+
+### Day 40 Linear vs Lasso vs Ridge
