@@ -47,3 +47,7 @@
 Linear Regression加上L1/ L2 Regression後
 
 ### Day 40 Linear vs Lasso vs Ridge
+
+### Day 41 Decision Tree概念
+
+### Day 42 Decision Tree實作Regression/ Classification
