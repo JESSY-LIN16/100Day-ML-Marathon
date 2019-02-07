@@ -51,3 +51,9 @@ Linear Regression加上L1/ L2 Regression後
 ### Day 41 Decision Tree概念
 
 ### Day 42 Decision Tree實作Regression/ Classification
+
+### Day 43 理解Random Forest
+
+假設總共有 N 筆資料，每棵樹用取後放回的方式抽了總共 N 筆資料生成，請問這棵樹大約使用了多少 % 不重複的原資料生成?
+
+### Day 44 Random Forest Classification/ Regression
