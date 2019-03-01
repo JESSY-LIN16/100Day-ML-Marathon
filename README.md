@@ -57,3 +57,11 @@ Linear Regression加上L1/ L2 Regression後
 假設總共有 N 筆資料，每棵樹用取後放回的方式抽了總共 N 筆資料生成，請問這棵樹大約使用了多少 % 不重複的原資料生成?
 
 ### Day 44 Random Forest Classification/ Regression
+
+### Ｄay 45 Boosting
+
+* Bagging: 減少overfitting的機會
+
+* Boosting: 處理underfitting，增加performance
+
+### Day 59 PCA的基本認識
