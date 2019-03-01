@@ -58,10 +58,14 @@ Linear Regression加上L1/ L2 Regression後
 
 ### Day 44 Random Forest Classification/ Regression
 
-### Ｄay 45 Boosting
+### Day 45 Boosting
 
 * Bagging: 減少overfitting的機會
 
 * Boosting: 處理underfitting，增加performance
+
+### Day 46 Gradeint Boosting Tree
+
+  透過sklearn實作
 
 ### Day 59 PCA的基本認識
