@@ -68,4 +68,12 @@ Linear Regression加上L1/ L2 Regression後
 
   透過sklearn實作
 
+### Day 47 超參數
+
+sklearn gridSearch學找最佳參數組合
+
 ### Day 59 PCA的基本認識
+
+### Day 60 Sklearn PCA
+
+* 研究sklearn PCA & pipeline
