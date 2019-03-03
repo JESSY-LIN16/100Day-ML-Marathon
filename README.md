@@ -77,3 +77,8 @@ sklearn gridSearch學找最佳參數組合
 ### Day 60 Sklearn PCA
 
 * 研究sklearn PCA & pipeline
+* **研究** 多個axis跨cell不能作圖
+
+
+
+
