@@ -72,13 +72,13 @@ Linear Regression加上L1/ L2 Regression後
 
 sklearn gridSearch學找最佳參數組合
 
+### Day 54 & 55 K-means
+
+sklearn kmeans & plot clusters
+
 ### Day 59 PCA的基本認識
 
 ### Day 60 Sklearn PCA
 
 * 研究sklearn PCA & pipeline
 * **研究** 多個axis跨cell不能作圖
-
-
-
-
