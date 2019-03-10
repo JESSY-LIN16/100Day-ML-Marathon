@@ -82,3 +82,7 @@ sklearn kmeans & plot clusters
 
 * 研究sklearn PCA & pipeline
 * **研究** 多個axis跨cell不能作圖
+
+### Day 66 安裝keras
+
+了解keras的backend functions
