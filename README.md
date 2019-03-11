@@ -76,6 +76,10 @@ sklearn gridSearch學找最佳參數組合
 
 sklearn kmeans & plot clusters
 
+### Day 56 K-means Coding
+
+sklearn silhouette評估分群績效 & silhouette作圖
+
 ### Day 59 PCA的基本認識
 
 ### Day 60 Sklearn PCA
