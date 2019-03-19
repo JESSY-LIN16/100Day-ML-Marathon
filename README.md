@@ -80,6 +80,10 @@ sklearn kmeans & plot clusters
 
 sklearn silhouette評估分群績效 & silhouette作圖
 
+### Day57 Hierarchical Clustering
+
+使用sklearn的hierarchical clustering演算法
+
 ### Day 59 PCA的基本認識
 
 ### Day 60 Sklearn PCA
