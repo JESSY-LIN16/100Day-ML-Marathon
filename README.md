@@ -91,6 +91,10 @@ sklearn silhouette評估分群績效 & silhouette作圖
 * 研究sklearn PCA & pipeline
 * **研究** 多個axis跨cell不能作圖
 
+### Day 61 t-SNE
+
+用手寫數字跑t-SNE
+
 ### Day 66 安裝keras
 
 了解keras的backend functions
