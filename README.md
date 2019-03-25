@@ -95,6 +95,8 @@ sklearn silhouette評估分群績效 & silhouette作圖
 
 用手寫數字跑t-SNE
 
+### Day 62 t-SNE作圖
+
 ### Day 66 安裝keras
 
 了解keras的backend functions
