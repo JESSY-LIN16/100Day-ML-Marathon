@@ -104,3 +104,5 @@ sklearn silhouette評估分群績效 & silhouette作圖
 ### Day 69 Keras Sequential API
 
 ### Day 70 Keras MLP
+
+### Day 71 Keras CNN (loss function)
