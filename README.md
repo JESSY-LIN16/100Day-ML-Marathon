@@ -102,3 +102,5 @@ sklearn silhouette評估分群績效 & silhouette作圖
 了解keras的backend functions
 
 ### Day 69 Keras Sequential API
+
+### Day 70 Keras MLP
